@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "dealerApp",
+    "packageName": "com.jh.dealer.app",
+    "packageFolder": "com/jh/dealer/app",
+    "serverPort": 8082,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": "true",
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZTI3ZWE1ODI2YjkyYWYzZDk0MGFmYzQyMmI4MDQyY2FhN2QxYjFiMzk3ZmM1ZDE4MmNmYTExYzBlZTU0YjFhMzU3NTk0ZTNlNDAwYWE2MjdmMGQxNDkwNDc3N2QzZTYyMmJmMWZjY2QzZjRkNGY0NGE0ZTA3ZTQwNTAzZDIxYjc=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "jh7rnn",
+  "repository-name": "dealer-app"
+}
